@@ -200,5 +200,5 @@ public class StatisticsConstants {
 
 	public static final String QUEUE_EVICTION_POLICY_NEW_MESSAGES = "new-messages-first";
 
-	public static final String SKIP_CHILD_EVENTS = "SKIP_CHILD_EVENTS";
+    public static final String ATOMIC_UNIT_ACTIVE = "ATOMIC_UNIT_ACTIVE";
 }
